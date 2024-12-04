@@ -51,8 +51,11 @@ Follow these step-by-step instructions to set up and run the project:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <https://github.com/ngothuythanhtam/Ordering-and-Reservation-Website>
-cd <repo-folder>
+git clone https://github.com/ngothuythanhtam/Ordering-and-Reservation-Website
+cd Ordering-and-Reservation-Website 
+
+
+### 2️⃣ Install Dependencies
 
 
 
