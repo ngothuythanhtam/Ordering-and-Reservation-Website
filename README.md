@@ -53,9 +53,24 @@ Follow these step-by-step instructions to set up and run the project:
 ```bash
 git clone https://github.com/ngothuythanhtam/Ordering-and-Reservation-Website
 cd Ordering-and-Reservation-Website 
-
+```
 
 ### 2️⃣ Install Dependencies
+👉 **Click to ```package.json``` in both frontend and backend folders to install dependencies.**  
 
+### 3️⃣ Start the Development Server
 
+To start the development server, use the following command from the frontend directory:
 
+```bash
+cd frontend
+npm run dev
+```
+
+At the same time, start the backend server, use the following command from the backend directory:
+```bash
+cd backend
+npm run dev
+```
+
+### updating...
