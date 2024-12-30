@@ -1,4 +1,4 @@
-**Contributor Name 1**: Ngô Thụy Thanh Tâm (code the functions and interface for admin)
+**Contributor Name 1**: Ngô Thụy Thanh Tâm (code the functions and interface for staff)
 
 **Contributor Name 2**: Nguyễn Thị Hoài Thương (code the functions and interface for user)
 
