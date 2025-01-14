@@ -1,6 +1,6 @@
-**Contributor Name 1**: Ngô Thụy Thanh Tâm (code the functions and interface for staff)
+**Contributor Name 1**: Ngô Thụy Thanh Tâm (the functions and interface for staff)
 
-**Contributor Name 2**: Nguyễn Thị Hoài Thương (code the functions and interface for user)
+**Contributor Name 2**: Nguyễn Thị Hoài Thương (the functions and interface for user)
 
 # 🌐 Welcome to Our Website! 🚀
 
