@@ -63,7 +63,7 @@ create table restaurant_table(
 
 -- 4. Reservation
 create table reservation(
-	reservation_id int primary key auto_increment,
+    reservation_id int primary key auto_increment,
     userid int,
     foreign key (userid) references users(userid) ON DELETE CASCADE ON UPDATE CASCADE,
     table_id int,
