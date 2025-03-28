@@ -14,8 +14,8 @@ Our web platform, built with **Vue.js**, **Node.js**, **Express.js**, **TanStack
 - **TanStack for State Management**: Simplifies real-time data handling to keep everything up-to-date.
 - **MySQL Database Integration**: Structured and reliable data storage for handling customer and staff-specific functionalities.
 - **Role-Based Access Control**:
-  - **Staff**: Manage orders, reservations, and more.
-  - **Customers**: Easily browse, order, and make reservations with an intuitive interface.
+  - **Staff**: Management for reservation and order status, CRUD operations for products, tables, search/filter, products details.
+  - **Customers**: User registration, login, account management, CRUD operations for orders.
 
 ---
 
